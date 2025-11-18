@@ -307,7 +307,7 @@ It’s **not as objective as CVSS**, but far more structured and reliable than a
 
 In a mature security program, you would use **all three tools**, each serving a different purpose.
 
-<img width="945" height="549" alt="image" src="https://github.com/user-attachments/assets/5dfaefd6-a7ee-4171-b515-d858319d0cbc" />
+<img width="947" height="558" alt="image" src="https://github.com/user-attachments/assets/3281cc86-bcad-4276-8e31-289f59a55cd3" />
 
 ---
 
